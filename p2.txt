@@ -1,3 +1,16 @@
+<<<<<<< Updated upstream
+hii
+=======
 hiiii
 hello
+<<<<<<< HEAD
 bye 
+=======
+bye
+goodbye
+
+vishakha
+hello
+
+hii bitchess
+>>>>>>> feature-branch
